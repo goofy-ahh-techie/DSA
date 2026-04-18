@@ -1,4 +1,4 @@
-package arrays;
+package sliding.window;
 
 /*
 * Variable-size Sliding Window problem: find the longest substring without repeating

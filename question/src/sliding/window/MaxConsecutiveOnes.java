@@ -1,4 +1,4 @@
-package arrays;
+package sliding.window;
 
 /*
 * Variable-size Sliding Window problem: find the longest sub-array with at most K zeros
